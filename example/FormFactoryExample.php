@@ -1,3 +1,4 @@
+<?php
 namespace App\Forms;
 
 use Nette;
