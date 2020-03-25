@@ -1,2 +1,4 @@
 # nette-forms-uikit
-NetteForms - UIKIT Renderer
+Nette Framework @ https://nette.org/cs/
+NetteForms renderer - for UIKIT https://getuikit.com/
+
