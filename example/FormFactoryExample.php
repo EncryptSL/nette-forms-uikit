@@ -10,11 +10,10 @@ final class FormFactory
 {
     use Nette\SmartObject;
 
-	public function create(): Form
-	{
+    public function create(): Form {
         $form = new Form;
         $form->onRender[] = [$this, 'makeUIKIT'];
-		return $form;
+	return $form;
     }
     
     function makeUIKIT(Form $form): void
